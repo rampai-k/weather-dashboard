@@ -1,0 +1,14 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A polished, responsive weather dashboard powered by Open-Meteo.",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
